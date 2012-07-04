@@ -1,0 +1,28 @@
+
+	README
+
+Show how to create a NodeJS application using express, and deploy it into EC2 using deploy.
+
+Follow the steps below:
+
+1. create a nodeJS project called node-project1 using Express at your machine.
+
+2. enter node-project1 directory, create a new file called Procfile
+
+3. edit package.json
+
+4. upload node-project1 into github.com
+
+5. create a deploy.conf for the deploy application
+
+6. run the following command to deploy app (node-project1) into EC2 instance
+
+	deploy live setup
+	deploy live
+
+7. visit EC2 instance DNS to see the result
+
+
+Any questions, please feel free to contact me at boyu2011@gmail.com
+
+BoYu
